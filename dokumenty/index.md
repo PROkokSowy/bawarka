@@ -1,18 +1,19 @@
-## Welcome to GitHub Pages
+Siema na mojej stronie!
 
-You can use the [editor on GitHub](https://github.com/PROkokSowy/bawarka/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+jest to strona zrobiona dla beki bedzie ona potem aktualizowana.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+jak widac to pusto jest wiec nie masz czego szukac. xD
 
-### Markdown
+Ogólnie co tutaj robisz?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+chciałbys dostac linka do mojego kanału na yt?
 
-```markdown
-Syntax highlighted code block
+Przeciez wiem ze chcesz. xD
 
-# Header 1
-## Header 2
+w takim razie zaraz ci go wkleje. xD
+
+https://www.youtube.com/channel/UC1do58RiWE2dDrMbv1Xnp5A?view_as=subscriber
+mówilem ze dam baw sie dobrze!
 ### Header 3
 
 - Bulleted
